@@ -1,0 +1,496 @@
+[
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-reddit-1",
+    "title": "r/FigmaDesign Component Architecture",
+    "platform": "Reddit",
+    "category": "Figma & Design Systems",
+    "memberCount": "130,000+ members",
+    "description": "Auto-layout 5.0 constraints, variable modes, component properties, design tokens, and Figma plugins.",
+    "joinUrl": "https://www.reddit.com/r/FigmaDesign/",
+    "tags": [
+      "figma",
+      "design-systems",
+      "components",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-reddit-2",
+    "title": "r/UI_UX Interface Design",
+    "platform": "Reddit",
+    "category": "UI/UX Design",
+    "memberCount": "140,000+ members",
+    "description": "Visual hierarchy, micro-interactions, responsive grid systems, and high-fidelity interface wireframes.",
+    "joinUrl": "https://www.reddit.com/r/UI_UX/",
+    "tags": [
+      "ui",
+      "ux",
+      "interface",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-reddit-3",
+    "title": "r/userexperience Research & Strategy",
+    "platform": "Reddit",
+    "category": "User Experience",
+    "memberCount": "210,000+ members",
+    "description": "Usability testing protocols, journey mapping, cognitive heuristics, and user interview synthesis.",
+    "joinUrl": "https://www.reddit.com/r/userexperience/",
+    "tags": [
+      "ux",
+      "research",
+      "usability",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-reddit-4",
+    "title": "r/webdesign Visual Web Crafts",
+    "platform": "Reddit",
+    "category": "Web Design",
+    "memberCount": "720,000+ members",
+    "description": "Modern website layouts, CSS grid frameworks, typography pairings, and visual design trends.",
+    "joinUrl": "https://www.reddit.com/r/webdesign/",
+    "tags": [
+      "webdesign",
+      "css",
+      "layout",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-reddit-5",
+    "title": "r/interactiondesign Motion & Flows",
+    "platform": "Reddit",
+    "category": "Interaction Design",
+    "memberCount": "48,000+ members",
+    "description": "Affordances, state transitions, motion timing functions, and cognitive ergonomic patterns.",
+    "joinUrl": "https://www.reddit.com/r/interactiondesign/",
+    "tags": [
+      "interaction",
+      "motion",
+      "ergonomics",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-reddit-6",
+    "title": "r/graphic_design Visual Systems",
+    "platform": "Reddit",
+    "category": "Graphic Design",
+    "memberCount": "1,600,000+ members",
+    "description": "Brand identity guidelines, color theory, iconography sets, and editorial grid systems.",
+    "joinUrl": "https://www.reddit.com/r/graphic_design/",
+    "tags": [
+      "graphic-design",
+      "branding",
+      "color",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-reddit-7",
+    "title": "r/Design Creative Masterminds",
+    "platform": "Reddit",
+    "category": "General Design",
+    "memberCount": "2,400,000+ members",
+    "description": "Cross-disciplinary design philosophy, industrial minimalism, and timeless aesthetic execution.",
+    "joinUrl": "https://www.reddit.com/r/Design/",
+    "tags": [
+      "design",
+      "aesthetics",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-reddit-8",
+    "title": "r/frontend Design Engineering",
+    "platform": "Reddit",
+    "category": "Design Implementation",
+    "memberCount": "410,000+ members",
+    "description": "Translating Figma specs into React/Tailwind code, responsive container queries, and CSS variables.",
+    "joinUrl": "https://www.reddit.com/r/frontend/",
+    "tags": [
+      "frontend",
+      "css",
+      "react",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-reddit-9",
+    "title": "r/css Cascading Style Sheets",
+    "platform": "Reddit",
+    "category": "CSS Architecture",
+    "memberCount": "160,000+ members",
+    "description": "Modern CSS features, subgrid, cascade layers (@layer), flexbox alignment, and animation keyframes.",
+    "joinUrl": "https://www.reddit.com/r/css/",
+    "tags": [
+      "css",
+      "styling",
+      "web",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-reddit-10",
+    "title": "r/typography Type & Font Systems",
+    "platform": "Reddit",
+    "category": "Typography",
+    "memberCount": "95,000+ members",
+    "description": "Variable fonts, optical sizing, baseline grids, modular scales, and international font legibility.",
+    "joinUrl": "https://www.reddit.com/r/typography/",
+    "tags": [
+      "typography",
+      "fonts",
+      "legibility",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-reddit-11",
+    "title": "r/accessibility Inclusive Design",
+    "platform": "Reddit",
+    "category": "Accessibility & A11y",
+    "memberCount": "24,000+ members",
+    "description": "WCAG 2.2 AA compliance, color contrast ratios, screen reader navigation, and keyboard focus states.",
+    "joinUrl": "https://www.reddit.com/r/accessibility/",
+    "tags": [
+      "a11y",
+      "wcag",
+      "accessibility",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-reddit-12",
+    "title": "r/ProductManagement Product Alignment",
+    "platform": "Reddit",
+    "category": "Product Strategy",
+    "memberCount": "290,000+ members",
+    "description": "Collaborative handoff between product managers and design leads, feature roadmaps, and PRD specs.",
+    "joinUrl": "https://www.reddit.com/r/ProductManagement/",
+    "tags": [
+      "product",
+      "strategy",
+      "handoff",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-reddit-13",
+    "title": "r/UXDesign Professional Practice",
+    "platform": "Reddit",
+    "category": "UX Careers",
+    "memberCount": "180,000+ members",
+    "description": "Design critiques, portfolio presentation strategies, design system ROI, and enterprise design governance.",
+    "joinUrl": "https://www.reddit.com/r/UXDesign/",
+    "tags": [
+      "ux",
+      "careers",
+      "design-systems",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-reddit-14",
+    "title": "r/DesignSystems Design Token Ops",
+    "platform": "Reddit",
+    "category": "Design Systems",
+    "memberCount": "22,000+ members",
+    "description": "Multi-brand design token synchronization, Figma-to-code pipelines (Style Dictionary), and versioning.",
+    "joinUrl": "https://www.reddit.com/r/DesignSystems/",
+    "tags": [
+      "design-systems",
+      "tokens",
+      "architecture",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-reddit-15",
+    "title": "r/UserExperienceDesign UX Crafts",
+    "platform": "Reddit",
+    "category": "UX Methodology",
+    "memberCount": "65,000+ members",
+    "description": "Card sorting experiments, tree testing, information architecture, and microcopy usability.",
+    "joinUrl": "https://www.reddit.com/r/UserExperienceDesign/",
+    "tags": [
+      "ux",
+      "architecture",
+      "testing",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-discord-16",
+    "title": "Figma Community Discord",
+    "platform": "Discord",
+    "category": "Figma Builders",
+    "memberCount": "85,000+ members",
+    "description": "The primary Discord server for Figma power users, plugin developers, and widget creators.",
+    "joinUrl": "https://discord.gg/figma",
+    "tags": [
+      "figma",
+      "plugins",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-discord-17",
+    "title": "Design Buddies Global Discord",
+    "platform": "Discord",
+    "category": "Design Community",
+    "memberCount": "64,000+ members",
+    "description": "Inclusive global design community hosting workshops, portfolio reviews, and design system events.",
+    "joinUrl": "https://discord.gg/designbuddies",
+    "tags": [
+      "design",
+      "portfolio",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-discord-18",
+    "title": "UI/UX Designers Discord",
+    "platform": "Discord",
+    "category": "Interface Design",
+    "memberCount": "52,000+ members",
+    "description": "Critique channels, prototyping tips in ProtoPie and Figma, and accessibility discussions.",
+    "joinUrl": "https://discord.gg/uiux",
+    "tags": [
+      "uiux",
+      "prototyping",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-discord-19",
+    "title": "Frontend & UI Engineering Discord",
+    "platform": "Discord",
+    "category": "Design to Code",
+    "memberCount": "46,000+ members",
+    "description": "Collaborative server bridging the gap between Figma design systems and React component libraries.",
+    "joinUrl": "https://discord.gg/frontend",
+    "tags": [
+      "frontend",
+      "react",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-discord-20",
+    "title": "Web Design Mastermind Discord",
+    "platform": "Discord",
+    "category": "Web Aesthetics",
+    "memberCount": "38,000+ members",
+    "description": "Responsive layout design, typography scaling, 3D web graphics, and micro-interaction polish.",
+    "joinUrl": "https://discord.gg/webdesign",
+    "tags": [
+      "webdesign",
+      "layout",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-discord-21",
+    "title": "Graphic Designers Lounge Discord",
+    "platform": "Discord",
+    "category": "Visual Identity",
+    "memberCount": "41,000+ members",
+    "description": "Branding projects, vector illustration critiques, color palettes, and typographic exploration.",
+    "joinUrl": "https://discord.gg/graphicdesign",
+    "tags": [
+      "graphic-design",
+      "branding",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-discord-22",
+    "title": "Product Designers Club Discord",
+    "platform": "Discord",
+    "category": "Product UX",
+    "memberCount": "35,000+ members",
+    "description": "Enterprise product design discussions, user flow diagrams, and complex dashboard architectures.",
+    "joinUrl": "https://discord.gg/productdesign",
+    "tags": [
+      "product-design",
+      "enterprise",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-telegram-23",
+    "title": "UI/UX Designers Telegram",
+    "platform": "Telegram",
+    "category": "Design Inspiration",
+    "memberCount": "58,000+ members",
+    "description": "Daily UI animation reels, component breakdown case studies, and design system updates.",
+    "joinUrl": "https://t.me/uiux",
+    "tags": [
+      "uiux",
+      "inspiration",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-telegram-24",
+    "title": "Figma Power Users Telegram",
+    "platform": "Telegram",
+    "category": "Figma News",
+    "memberCount": "44,000+ members",
+    "description": "Figma feature updates, community UI kits, shortcuts, and component library tutorials.",
+    "joinUrl": "https://t.me/figma",
+    "tags": [
+      "figma",
+      "tutorials",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-telegram-25",
+    "title": "Web Design Trends Telegram",
+    "platform": "Telegram",
+    "category": "Web Design News",
+    "memberCount": "36,000+ members",
+    "description": "Curated modern websites, award-winning CSS interactions, and visual layout breakdowns.",
+    "joinUrl": "https://t.me/webdesign",
+    "tags": [
+      "webdesign",
+      "trends",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-telegram-26",
+    "title": "Mobile UI Patterns Telegram",
+    "platform": "Telegram",
+    "category": "Mobile Design",
+    "memberCount": "32,000+ members",
+    "description": "iOS Human Interface Guidelines, Material 3 specs, and tactile mobile micro-interactions.",
+    "joinUrl": "https://t.me/mobileui",
+    "tags": [
+      "mobile",
+      "ios",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-forum-27",
+    "title": "Figma Official Forum",
+    "platform": "Forum",
+    "category": "Design Tool Forum",
+    "memberCount": "220,000+ members",
+    "description": "Official forum for feature requests, bug reports, API development, and design token integration.",
+    "joinUrl": "https://forum.figma.com",
+    "tags": [
+      "figma",
+      "official",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-forum-28",
+    "title": "Designer News Collective",
+    "platform": "Forum",
+    "category": "Design News",
+    "memberCount": "85,000+ members",
+    "description": "Community-curated news on product launches, typography trends, and design industry insights.",
+    "joinUrl": "https://www.designernews.co",
+    "tags": [
+      "designernews",
+      "curation",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-forum-29",
+    "title": "Dribbble Design Stories",
+    "platform": "Forum",
+    "category": "Visual Portfolio",
+    "memberCount": "950,000+ members",
+    "description": "In-depth articles and discussions on branding case studies, animation breakdowns, and interface polish.",
+    "joinUrl": "https://dribbble.com/stories",
+    "tags": [
+      "dribbble",
+      "stories",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "figma-design-system-leaders-ui-architects-hub-forum-30",
+    "title": "Behance Curated Galleries",
+    "platform": "Forum",
+    "category": "Creative Showcase",
+    "memberCount": "1,200,000+ members",
+    "description": "World-class graphic design, typography showcase, brand identity systems, and UI case studies.",
+    "joinUrl": "https://www.behance.net/galleries",
+    "tags": [
+      "behance",
+      "galleries",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  }
+]
