@@ -1,5 +1,24 @@
 [
   {
+    "id": "figma-design-system-leaders-ui-architects-hub-reddit-3",
+    "title": "r/userexperience Research & Strategy",
+    "platform": "Reddit",
+    "category": "User Experience",
+    "memberCount": "210,000+ members",
+    "description": "Usability testing protocols, journey mapping, cognitive heuristics, and user interview synthesis.",
+    "joinUrl": "https://www.reddit.com/r/userexperience/",
+    "tags": [
+      "ux",
+      "research",
+      "usability",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-20"
+  },
+  {
     "id": "figma-design-system-leaders-ui-architects-hub-reddit-2",
     "title": "r/UI_UX Interface Design",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-19"
   },
   {
@@ -36,24 +55,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
-  },
-  {
-    "id": "figma-design-system-leaders-ui-architects-hub-reddit-3",
-    "title": "r/userexperience Research & Strategy",
-    "platform": "Reddit",
-    "category": "User Experience",
-    "memberCount": "210,000+ members",
-    "description": "Usability testing protocols, journey mapping, cognitive heuristics, and user interview synthesis.",
-    "joinUrl": "https://www.reddit.com/r/userexperience/",
-    "tags": [
-      "ux",
-      "research",
-      "usability",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "figma-design-system-leaders-ui-architects-hub-reddit-4",
